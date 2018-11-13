@@ -249,6 +249,12 @@ footer .container{
 		text-align: center;
 	}
 	
+	.servicos p{
+		padding: 40px 80px;
+		margin: 0;
+		font-size: 5vw;
+	}
+	
 }
 
 @media (min-width: 651px){
@@ -270,11 +276,11 @@ footer .container{
 	.servicos p{
 		padding: 10px 20px;
 		margin: 0;
-		font-size: 3vw;
+		font-size: 5vw;
 	}
 	
 	.titulo h1{
-		font-size: 1rem;
+		font-size: 5vw;
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
