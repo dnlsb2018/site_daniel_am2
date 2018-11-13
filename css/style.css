@@ -132,6 +132,7 @@ header{
 .servicos p{
 	padding: 40px 80px;
 	margin: 0;
+	font-size: 1.2vw;
 }
 
 .servicos img{
@@ -264,6 +265,12 @@ footer .container{
 
 	.link-jobs{
 		width: 100%;
+	}
+	
+	.servicos p{
+		padding: 10px 20px;
+		margin: 0;
+		font-size: 2.4vw;
 	}
 
 	
