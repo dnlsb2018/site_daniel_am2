@@ -234,7 +234,7 @@ footer .container{
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
-		width: 60%;
+		width: 45%;
 		text-align: center;
 	}
 }
@@ -250,7 +250,7 @@ footer .container{
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
-		width: 60%;
+		width: 45%;
 		text-align: center;
 	}
 }
@@ -278,7 +278,7 @@ footer .container{
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
-		width: 60%;
+		width: 45%;
 		text-align: center;
 	}
 	
@@ -287,6 +287,15 @@ footer .container{
 @media (min-width: 651px){
 	#btn-menu{
 		display: none;
+	}
+	
+	.titulo h1{
+		font-size: 1.8vw;
+		font-weight: bold;
+		background-color: #00d8f0;
+		padding: 5px;
+		width: 45%;
+		text-align: center;
 	}
 }
 
