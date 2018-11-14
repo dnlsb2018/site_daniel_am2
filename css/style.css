@@ -228,12 +228,30 @@ footer .container{
 	.container{
 		width: 1170px
 	}
+	
+	.titulo h1{
+		font-size: 1.8vw;
+		font-weight: bold;
+		background-color: #00d8f0;
+		padding: 5px;
+		width: 60%;
+		text-align: center;
+	}
 }
 
 /* LAPTOP */
 @media (min-width: 992px) { 
 	.contato .form{
 		max-width: 550px;
+	}
+	
+	.titulo h1{
+		font-size: 1.8vw;
+		font-weight: bold;
+		background-color: #00d8f0;
+		padding: 5px;
+		width: 60%;
+		text-align: center;
 	}
 }
 
@@ -256,11 +274,11 @@ footer .container{
 	}
 
 	.titulo h1{
-		font-size: 2vw;
+		font-size: 1.8vw;
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
-		width: 350px;
+		width: 60%;
 		text-align: center;
 	}
 	
@@ -293,7 +311,7 @@ footer .container{
 		font-weight: bold;
 		background-color: #00d8f0;
 		padding: 5px;
-		width: 350px;
+		width: 80%;
 		text-align: center;
 	}
 }
